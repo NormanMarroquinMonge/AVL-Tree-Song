@@ -9,8 +9,8 @@ ________________________________________________________________________________
 <div style="overflow-x: auto;">
   <table>
     <tr>
-      <td><img src="https://github.com/NormanMarroquinMonge/Song-AVL-Tree/assets/136506189/f3931aef-9516-484d-83c9-91b2694cde18" alt="Screenshot 2" style="max-width: 100%; height: auto;"></td>
-      <td><img src="https://github.com/NormanMarroquinMonge/Song-AVL-Tree/assets/136506189/426056ba-0301-4b43-a6a6-b37c873bdd04" alt="Screenshot 3" style="max-width: 100%; height: auto;"></td>
+      <td><img src="https://github.com/NormanMarroquinMonge/AVL-Tree-Song/assets/136506189/45b7cd3b-0292-46ce-8881-6517bc4cdd24" alt="Screenshot 2" style="max-width: 100%; height: auto;"></td>
+      <td><img src="https://github.com/NormanMarroquinMonge/AVL-Tree-Song/assets/136506189/6191265b-afb4-47d4-a87d-1b4e65bdb6f3" alt="Screenshot 3" style="max-width: 100%; height: auto;"></td>
     </tr>
   </table>
 </div>
